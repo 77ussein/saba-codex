@@ -18,8 +18,8 @@ This ensures consistency, recognition, and long-term brand integrity across ever
 
 ---
 
-**Official Document**
-**SAB'A Codex**
-**Section:** 01_BRAND
-**Document:** COLOR SYSTEM
+**Official Document**  
+**SAB'A Codex**  
+**Section:** 01_BRAND  
+**Document:** COLOR SYSTEM  
 **Version:** 1.0
