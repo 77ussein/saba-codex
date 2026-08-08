@@ -451,11 +451,7 @@ It should build a **coherent product house**.
 ---
 
 **Official Document** 
-
 **SAB’A Codex** 
-
 **Section:** 02_PRODUCT 
-
 **Document:** Product Architecture 
-
 **Version:** 1.0
