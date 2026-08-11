@@ -112,6 +112,6 @@ Each fragrance should feel rooted in the world of SAB’A, expressed through con
 
 **Official Document**  
 **SAB’A Codex**  
-**Section:** 03_FRAGRANCE LIBRARY  
+**Section:** FRAGRANCE LIBRARY  
 **Document:** Fragrance Philosophy  
 **Version:** 1.0
