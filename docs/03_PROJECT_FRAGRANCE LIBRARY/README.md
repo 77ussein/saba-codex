@@ -51,7 +51,11 @@ Unapproved concepts, experiments, and temporary formulations should remain clear
 ⸻
 
 Official Document
+
 SAB’A Codex
+
 Section: FRAGRANCE LIBRARY
+
 Document: README
+
 Version: 1.0
