@@ -1,264 +1,188 @@
-# Marketing Philosophy
+# Brand Positioning
 
 ## Purpose
 
-SAB’A marketing exists to connect the world of SAB’A with the people who can appreciate it.
+This document defines the position SAB’A seeks to occupy in the minds of its audience and within its market.
 
-Marketing should reveal value, create meaningful connections, and build long-term relationships.
-
-It should never replace substance with promotion.
+Positioning establishes how SAB’A is understood, recognised, and distinguished from alternatives.
 
 ---
 
-## The Role of Marketing
+## Positioning Principle
 
-Marketing should:
+SAB’A should not compete by simply claiming to be more luxurious, more premium, or more exclusive.
 
-- Create awareness
-- Build understanding
-- Generate interest
-- Develop desire
-- Build trust
-- Encourage discovery
-- Strengthen relationships
-- Support sustainable growth
+Its position should be earned through:
 
-Marketing is a bridge between SAB’A and its audience.
-
----
-
-## Marketing and Brand
-
-Marketing must express the established SAB’A identity.
-
-It should never change the character of the house simply to achieve short-term attention.
-
-The relationship is:
-
-**Brand → Meaning → Marketing → Experience → Relationship**
-
-Marketing communicates the brand.
-
-It does not define it.
-
----
-
-## Value Before Promotion
-
-SAB’A should have something meaningful to communicate before attempting to promote it.
-
-Marketing should reveal:
-
-- Product quality
+- Identity
+- Product
 - Craft
 - Fragrance
 - Design
-- Stories
-- Knowledge
-- Experiences
-- The world of SAB’A
-
-The stronger the substance, the less marketing needs to exaggerate.
+- Experience
+- Meaning
 
 ---
 
-## Invitation, Not Pressure
+## The SAB’A Position
 
-SAB’A marketing should invite people to discover rather than pressure them to act.
+SAB’A is positioned as a distinctive house built around fragrance, product, design, and a refined way of experiencing the world.
 
-Prefer:
+It combines substance with atmosphere, and quality with character.
 
-> Discover what lies within.
+The objective is not to imitate established luxury codes, but to develop a recognisable SAB’A point of view.
 
-Rather than:
+---
 
-> You need this.
+## Differentiation
 
-Prefer:
+SAB’A should be distinguished through the combination of:
 
-> Enter a different expression of fragrance.
+- A clear identity
+- Distinctive fragrance direction
+- Considered product development
+- Attention to materials and detail
+- Refined visual language
+- Meaningful storytelling
+- A coherent customer experience
 
-Rather than:
+No single element needs to carry the entire position.
 
-> Become more luxurious.
+The strength comes from the system working together.
 
-The audience should feel curiosity and attraction, not manipulation.
+---
+
+## Perception
+
+The desired perception of SAB’A is:
+
+**Distinctive → Refined → Intelligent → Desirable → Memorable**
+
+The audience should recognise the character of SAB’A without needing constant claims about its status.
 
 ---
 
 ## Audience Relationship
 
-The audience is not simply a collection of targets or transactions.
+SAB’A should not position the audience as people who need to become something.
 
-SAB’A aims to develop:
+Instead, it should create a world that people may recognise themselves within.
 
-**Awareness → Curiosity → Discovery → Connection → Participation → Loyalty**
+The invitation is:
 
-The long-term objective is to create a meaningful relationship with the house.
+**Discover → Explore → Connect → Participate**
+
+The audience should feel drawn toward SAB’A through curiosity and affinity.
 
 ---
 
-## Desire
+## Luxury
 
-SAB’A should create desire through:
+Luxury is not treated as a marketing claim.
 
-- Meaning
+For SAB’A, luxury may be expressed through:
+
+- Restraint
+- Quality
 - Detail
-- Beauty
-- Scarcity when genuine
 - Craft
-- Story
+- Time
+- Rarity when genuine
+- Thoughtfulness
 - Experience
-- Discovery
 
-Desire should emerge naturally from the value being presented.
-
----
-
-## Trust
-
-Trust is built through:
-
-- Accuracy
-- Consistency
-- Transparency
-- Product truth
-- Reliable communication
-- Respect for the audience
-
-Marketing must never sacrifice trust for a short-term conversion.
+The brand should allow these qualities to communicate luxury naturally.
 
 ---
 
-## Cultural and Emotional Relevance
+## Competitive Position
 
-Marketing may connect SAB’A with:
+SAB’A should avoid competing primarily through:
 
-- Culture
-- Place
-- Memory
-- Ritual
-- Sensory experiences
-- Contemporary life
+- Price
+- Discounts
+- Volume
+- Constant promotions
+- Trend imitation
+- Artificial exclusivity
 
-These connections should be authentic and meaningful.
-
-They should never be manufactured simply because they appear commercially useful.
+Competition should instead be based on distinctive value and a coherent brand world.
 
 ---
 
-## Commercial Marketing
+## Positioning Statement
 
-Marketing ultimately supports commercial growth.
+SAB’A is a distinctive house for people who appreciate fragrance, design, detail, and meaningful experiences.
 
-However, commerce should be treated as part of a larger relationship:
-
-**Meaning → Interest → Desire → Trust → Commerce → Relationship**
-
-A sale is not the end of the relationship.
-
-It may be the beginning of one.
+It offers a considered world where product, craft, and storytelling come together to create something recognisably SAB’A.
 
 ---
 
-## Campaign Mindset
+## Proof of Position
 
-Campaigns should have a clear idea behind them.
+Positioning must be supported by reality.
 
-A campaign should answer:
+The strongest proof comes from:
 
-1. Why does this campaign exist?
-2. What does it communicate?
-3. Who is it for?
-4. Why should the audience care?
-5. What should the audience discover or experience?
-6. How does it strengthen SAB’A?
+- Products
+- Fragrance
+- Materials
+- Packaging
+- Website
+- Content
+- Customer experience
+- Service
+- Communication
 
----
-
-## Long-Term Thinking
-
-SAB’A marketing should prioritise long-term brand value over temporary attention.
-
-Avoid building the brand around:
-
-- Constant discounts
-- Artificial urgency
-- Empty trends
-- Excessive promotions
-- Short-term engagement tricks
-
-Short-term tactics may be used when appropriate, but they must remain consistent with the long-term direction of SAB’A.
+If the experience does not support the position, the position is only a statement.
 
 ---
 
-## Personalisation
+## Consistency
 
-Marketing may become more relevant through:
+The same positioning should be recognisable across:
 
-- Customer interests
-- Behaviour
-- Purchase history
-- Preferences
-- Loyalty
-- Previous interactions
+**Product → Packaging → Website → Content → Marketing → Ecommerce → Customer Experience**
 
-Personalisation should improve relevance without becoming intrusive.
+Each touchpoint may express it differently.
+
+The underlying perception should remain consistent.
 
 ---
 
-## AI and Marketing
+## Positioning Evolution
 
-AI may support:
+SAB’A may evolve as the house develops.
 
-- Audience analysis
-- Content adaptation
-- Personalisation
-- Campaign development
-- Customer communication
-- Marketing operations
+However, evolution should strengthen the core identity rather than replace it for temporary market opportunities.
 
-AI must operate within SAB’A's approved brand, content, legal, and ethical standards.
+Changes in:
 
-AI assists marketing decisions.
+- Products
+- Audience
+- Channels
+- Markets
+- Trends
 
-It does not replace strategic judgement.
-
----
-
-## Core Principles
-
-SAB’A marketing follows:
-
-1. **Substance over hype**
-2. **Meaning over noise**
-3. **Invitation over pressure**
-4. **Trust over manipulation**
-5. **Long-term value over short-term attention**
-6. **Relevance over repetition**
-7. **Relationship over transaction**
-8. **Identity over trends**
+should not automatically require a change in positioning.
 
 ---
 
-## Core Statement
+## Core Principle
 
-SAB’A does not market the idea of being luxurious.
+> **SAB’A should not tell the market what it is. It should build enough substance for the market to recognise what it is.**
 
-It creates a world worth discovering.
+Position is earned through consistency.
 
-Marketing simply opens the door.
-
-**Reveal the world.  
-Create curiosity.  
-Build trust.  
-Invite discovery.  
-Earn the relationship.**
+**Be distinctive.  
+Be meaningful.  
+Be recognisable.  
+Let the experience prove the claim.**
 
 ---
 
 **SAB’A Codex**  
 **Directory:** `08_MARKETING`  
-**Document:** `Marketing Philosophy.md`  
+**Document:** `Brand Positioning.md`  
 **Version:** `1.0`  
 **Status:** Draft
