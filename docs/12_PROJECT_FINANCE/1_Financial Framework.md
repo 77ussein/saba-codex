@@ -1,399 +1,396 @@
-# Pricing Model
+# Financial Framework
 
 ## Purpose
 
-The Pricing Model defines how SAB’A establishes, evaluates, and maintains product and commercial pricing.
-
-The objective is to create prices that reflect the value of SAB’A products, support healthy margins, remain commercially appropriate, and contribute to sustainable long-term growth.
-
-## Pricing Principles
-
-1. **Value before Cost-Plus**
-2. **Profitability with Purpose**
-3. **Consistency across Channels**
-4. **Clarity over Arbitrary Pricing**
-5. **Brand Integrity over Price Competition**
-6. **Sustainable Margins**
-7. **Evidence over Assumption**
-8. **Review when Material Conditions Change**
-
-## Pricing Philosophy
-
-Pricing is not simply the result of adding a margin to product cost.
-
-A SAB’A price should reflect a considered relationship between:
-
-- Product Cost
-- Customer Value
-- Brand Positioning
-- Product Architecture
-- Market Context
-- Channel Economics
-- Desired Margin
-- Business Sustainability
-
-The price should feel consistent with the product and the experience surrounding it.
-
-## Pricing Inputs
-
-Pricing decisions may consider:
-
-- Unit Cost
-- Landed Cost
-- Fulfillment Cost
-- Payment Fees
-- Channel Costs
-- Marketing Economics
-- Desired Gross Margin
-- Contribution Margin
-- Customer Value
-- Market Position
-- Product Category
-- Product Size
-- Product Architecture
-- Competitive Context
-- Taxes and Duties where applicable
-
-No single input should determine the final price by itself.
-
-## Cost-Based Reference
-
-Cost provides an essential financial floor for pricing analysis.
-
-A basic reference may be represented as:
-
-> Product Cost + Required Margin = Indicative Price
-
-This calculation should be treated as a financial reference rather than the complete pricing methodology.
-
-A price that appears profitable on paper may still be unsuitable if it does not reflect the value, positioning, or commercial role of the product.
-
-## Value Consideration
-
-SAB’A should consider the value perceived by the customer when establishing price.
-
-Value may be influenced by:
-
-- Product Quality
-- Fragrance
-- Materials
-- Craft
-- Design
-- Packaging
-- Experience
-- Brand Meaning
-- Rarity or Availability where applicable
-- Service
-
-Value should be demonstrated through the product and experience rather than created through unsupported claims.
-
-## Market Context
-
-Market prices may provide useful context but should not automatically determine SAB’A pricing.
-
-Competitive analysis may consider:
-
-- Comparable Products
-- Product Size
-- Quality
-- Materials
-- Brand Positioning
-- Customer Experience
-- Distribution Model
-- Geographic Market
-
-SAB’A should avoid entering unnecessary price competition when its differentiation is based on substance rather than price.
-
-## Margin Structure
-
-Pricing should be evaluated against relevant financial measures.
-
-Potential measures include:
-
-- Gross Margin
-- Contribution Margin
-- Operating Margin
-- Channel Margin
-
-A basic gross margin calculation may be expressed as:
-
-> Gross Margin = (Selling Price − Product Cost) ÷ Selling Price
-
-The applicable financial definitions should remain consistent across SAB’A reporting.
-
-## Contribution Margin
-
-Where relevant, SAB’A should evaluate the contribution generated after variable selling costs.
-
-A simplified model may be expressed as:
-
-> Selling Price − Product Cost − Variable Selling Costs = Contribution
-
-Variable selling costs may include:
-
-- Payment Processing
-- Fulfillment
-- Shipping
-- Transaction Fees
-- Other Sales-Dependent Costs
-
-## Product Architecture
-
-Pricing should support the overall product architecture.
-
-Products may have different commercial roles, such as:
-
-- Entry Products
-- Core Products
-- Signature Products
-- Limited Products
-- Collections
-- Sets or Bundles
-
-Price differences should communicate meaningful differences in product value or role.
-
-## Product Size and Pricing
-
-Where the same product exists in multiple sizes, pricing should consider:
-
-- Cost Difference
-- Customer Value
-- Usage
-- Packaging
-- Product Architecture
-- Expected Margin
-
-Larger sizes do not necessarily need to follow a strictly proportional price increase.
-
-## Bundles and Sets
-
-Bundles may be priced differently from individual products where strategically appropriate.
-
-Bundle pricing should consider:
-
-- Combined Product Value
-- Packaging
-- Fulfillment
-- Margin
-- Customer Benefit
-- Inventory Objectives
-
-Discounting should not become the primary reason customers perceive the bundle as valuable.
-
-## Discounts
-
-Discounts should be used selectively and for a defined purpose.
-
-Potential purposes may include:
-
-- Product Introduction
-- Bundling
-- Customer Recovery
-- Controlled Campaigns
-- Inventory Management where appropriate
-
-SAB’A should avoid excessive discounting that:
-
-- Weakens price perception
-- Trains customers to wait for promotions
-- Damages margins
-- Creates inconsistent pricing expectations
-
-## Promotional Pricing
-
-Promotional pricing should have:
-
-- Defined Objective
-- Defined Duration
-- Defined Products
-- Defined Price
-- Defined Approval
-- Defined Measurement
-
-Promotional activity should be evaluated after completion.
-
-## Channel Pricing
-
-Pricing should account for the economics of each sales channel.
-
-Channels may include:
+The Financial Framework defines the principles and structure used to manage the financial health of SAB’A.
+
+It connects financial planning, revenue, costs, profitability, cash flow, investment, and risk to the broader objectives of the business.
+
+The objective is to ensure that SAB’A grows with financial clarity, discipline, and long-term sustainability.
+
+## Financial Philosophy
+
+SAB’A should treat finance as a decision-making system, not merely an accounting function.
+
+Financial decisions should help answer:
+
+- Can we afford this?
+- Should we spend this?
+- What value will it create?
+- What is the expected return?
+- What is the effect on cash flow?
+- What is the effect on product quality?
+- What is the effect on the customer experience?
+- Does it support the long-term direction of SAB’A?
+
+## Financial Principles
+
+1. **Long-Term Sustainability over Short-Term Appearance**
+2. **Cash Discipline**
+3. **Profitability with Purpose**
+4. **Evidence over Assumption**
+5. **Complete Cost Visibility**
+6. **Responsible Investment**
+7. **Financial Resilience**
+8. **Quality without Uncontrolled Spending**
+9. **Growth without Loss of Control**
+10. **Clear Financial Accountability**
+
+## Financial Architecture
+
+The SAB’A financial framework may be understood through:
+
+> Revenue  
+> ↓  
+> Gross Revenue  
+> ↓  
+> Net Revenue  
+> ↓  
+> Cost of Goods Sold  
+> ↓  
+> Gross Profit  
+> ↓  
+> Operating Expenses  
+> ↓  
+> Operating Result  
+> ↓  
+> Cash Flow  
+> ↓  
+> Financial Position
+
+The exact accounting treatment should follow the applicable accounting framework and professional financial advice.
+
+## Revenue
+
+Revenue should be tracked according to the actual sources of income generated by SAB’A.
+
+Potential revenue sources may include:
 
 - Direct Ecommerce
 - Retail
 - Wholesale
 - Partnerships
+- Events
 - Corporate Sales
 - Other Approved Channels
 
-Different channel economics may require different commercial structures while protecting the overall positioning of SAB’A.
+Revenue should be recorded accurately and consistently.
 
-## Wholesale Pricing
+## Cost Structure
 
-Where wholesale is used, pricing should account for:
+SAB’A should maintain visibility over the major categories of business costs.
 
-- Wholesale Price
-- Retail Price
-- Product Cost
-- Wholesale Margin
-- Retailer Margin
-- Distribution Costs
-- Payment Terms
-- Minimum Orders
-- Logistics
+These may include:
 
-Wholesale pricing should remain commercially viable for both SAB’A and the relevant retail partner.
+### Direct Costs
 
-## Geographic Pricing
+Costs directly associated with producing or delivering a product.
 
-Pricing may differ between markets where justified by:
+Examples:
 
-- Taxes
-- Duties
+- Raw Materials
+- Fragrance Materials
+- Packaging
+- Manufacturing
+- Product Assembly
+
+### Variable Operating Costs
+
+Costs that may increase with sales or activity.
+
+Examples:
+
+- Payment Processing
+- Fulfillment
 - Shipping
-- Currency
-- Local Costs
-- Market Conditions
-- Regulatory Requirements
-- Channel Structure
+- Certain Marketing Costs
+- Transaction Fees
 
-Any geographic pricing difference should have a clear commercial or financial rationale.
+### Fixed or Semi-Fixed Costs
 
-## Psychological Pricing
+Costs that support ongoing operations.
 
-Pricing formats may be considered as part of the customer experience, but should not undermine SAB’A’s positioning.
+Examples:
 
-Price presentation should remain:
+- Software
+- Website
+- Professional Services
+- Rent where applicable
+- Administrative Costs
+- Certain Salaries or Retainers
 
-- Clear
-- Refined
-- Consistent
-- Easy to understand
+## Unit Economics
 
-Pricing should not rely on manipulative techniques.
+Each major product or commercial offering should be evaluated through appropriate unit economics.
 
-## Price Changes
+Relevant measures may include:
 
-A price change may be considered when there are material changes in:
-
+- Selling Price
 - Product Cost
-- Packaging Cost
-- Supplier Pricing
-- Manufacturing Cost
-- Currency
-- Duties
-- Market Conditions
-- Product Value
-- Channel Economics
-- Business Strategy
+- Gross Profit
+- Gross Margin
+- Fulfillment Cost
+- Payment Cost
+- Customer Acquisition Cost
+- Contribution Margin
 
-Price changes should be reviewed before implementation and documented.
+Unit economics should be reviewed when significant assumptions change.
 
-## Price Protection
+## Gross Margin
 
-Where pricing changes affect existing customers, orders, campaigns, or commercial partners, SAB’A should define appropriate transition rules.
+Gross margin should be monitored to understand how effectively SAB’A converts revenue into value after direct product costs.
 
-This may include:
+Gross margin should be considered alongside:
 
-- Existing Orders
-- Confirmed Wholesale Orders
-- Active Campaigns
-- Published Prices
-- Pre-Orders where applicable
+- Product Quality
+- Packaging
+- Manufacturing
+- Customer Experience
+- Marketing
+- Market Positioning
 
-## Pricing Approval
+A higher margin is not automatically better if achieved by damaging the product or experience.
 
-Significant pricing decisions should be reviewed and approved by the appropriate authority.
+## Operating Expenses
 
-Approval should consider:
+Operating expenses should be planned and monitored according to their contribution to the business.
 
-- Financial Impact
-- Brand Impact
-- Customer Impact
-- Channel Impact
-- Operational Impact
-- Legal or Regulatory Considerations where applicable
+Expenses may support:
 
-## Pricing Review
+- Brand Development
+- Product Development
+- Marketing
+- Ecommerce
+- Operations
+- Customer Experience
+- Technology
+- Professional Services
+- Administration
 
-Pricing should be reviewed periodically and when material assumptions change.
+Each significant expense should have a clear business purpose.
 
-Review may consider:
+## Investment
 
-- Unit Economics
+Investment decisions should consider both immediate and long-term value.
+
+Potential investment areas include:
+
+- Product Development
+- Equipment
+- Technology
+- Brand Development
+- Inventory
+- Marketing
+- Team Development
+- Infrastructure
+
+Investment should be evaluated according to expected value, risk, timing, and cash requirements.
+
+## Cash Flow Framework
+
+Cash flow should be monitored independently from profitability.
+
+The framework should consider:
+
+- Opening Cash
+- Expected Receipts
+- Expected Payments
+- Inventory Purchases
+- Production Commitments
+- Operating Expenses
+- Taxes and Duties where applicable
+- Capital Expenditure
+- Closing Cash
+
+Cash availability should be considered before making significant financial commitments.
+
+## Working Capital
+
+Working capital should be managed to maintain operational continuity.
+
+Key areas may include:
+
+- Inventory
+- Supplier Payment Terms
+- Customer Receivables where applicable
+- Operating Cash
+- Outstanding Obligations
+
+Excess inventory should not be treated as positive merely because it represents potential future sales.
+
+## Budget Framework
+
+Budgets should translate business plans into financial boundaries.
+
+A budget may include:
+
+| Category | Planned | Actual | Variance | Notes |
+|---|---:|---:|---:|---|
+| Product Development | — | — | — | — |
+| Packaging | — | — | — | — |
+| Production | — | — | — | — |
+| Marketing | — | — | — | — |
+| Operations | — | — | — | — |
+| Technology | — | — | — | — |
+| Professional Services | — | — | — | — |
+
+Budgets should be reviewed against actual performance and updated when material assumptions change.
+
+## Forecasting
+
+Financial forecasts should use clearly stated assumptions.
+
+Forecasts may consider:
+
+- Sales Volume
+- Average Order Value
+- Product Launches
+- Conversion
+- Repeat Purchase
+- Marketing Spend
+- Production Capacity
+- Inventory Requirements
+- Operating Costs
+
+Forecasts are planning tools and should not be treated as guaranteed outcomes.
+
+## Financial Scenarios
+
+Where uncertainty is significant, SAB’A may use multiple scenarios.
+
+Examples:
+
+- Conservative
+- Base
+- Growth
+
+Scenario planning should identify the assumptions that materially affect the outcome.
+
+## Financial Controls
+
+Financial controls should reduce unnecessary risk and improve accountability.
+
+Controls may include:
+
+- Spending Approval
+- Purchase Authorization
+- Invoice Verification
+- Payment Approval
+- Bank Reconciliation
+- Expense Categorization
+- Budget Monitoring
+- Access Controls
+- Record Retention
+
+Controls should remain proportionate to the size and complexity of the business.
+
+## Financial Decision Framework
+
+Before a significant financial commitment, SAB’A should consider:
+
+1. **Purpose** — Why are we spending?
+2. **Value** — What value is expected?
+3. **Cost** — What is the complete cost?
+4. **Cash Impact** — How does it affect liquidity?
+5. **Risk** — What could go wrong?
+6. **Alternatives** — Is there a better option?
+7. **Timing** — Does the timing make sense?
+8. **Alignment** — Does it support SAB’A’s direction?
+
+## Financial Risk
+
+Financial risks should be identified and monitored.
+
+Potential risks include:
+
+- Weak Margins
+- Insufficient Cash
+- Excess Inventory
+- Unexpected Costs
+- Supplier Price Increases
+- Currency Exposure
+- High Customer Acquisition Costs
+- Overdependence on Discounts
+- Unplanned Capital Requirements
+- Concentration of Revenue
+
+Material risks should have appropriate mitigation plans.
+
+## Financial Performance
+
+Financial performance may be evaluated through:
+
+- Revenue Growth
 - Gross Margin
 - Contribution Margin
-- Sales Performance
-- Customer Response
-- Repeat Purchase
-- Channel Performance
-- Market Context
-- Cost Changes
-
-## Pricing Record
-
-Each approved product price should have a documented record.
-
-A pricing record may include:
-
-| Field | Description |
-|---|---|
-| Product | Product name |
-| SKU | Product identifier |
-| Channel | Sales channel |
-| Market | Applicable market |
-| Currency | Pricing currency |
-| Product Cost | Current relevant cost |
-| Selling Price | Approved price |
-| Gross Margin | Calculated margin |
-| Contribution | Relevant contribution |
-| Effective Date | Date price becomes active |
-| Previous Price | Previous approved price |
-| Reason for Change | Where applicable |
-| Approval Status | Draft / Approved / Superseded |
-| Owner | Responsible person |
-
-## Pricing Integrity
-
-SAB’A should ensure that published prices are:
-
-- Accurate
-- Consistent
-- Clearly presented
-- Properly approved
-- Updated across relevant channels
-
-Unapproved price variations should not be introduced casually.
-
-## Relationship with Other Financial Documents
-
-The Pricing Model should work together with:
-
-- Financial Framework
-- Budget
-- Costing
+- Operating Expenses
+- Operating Result
 - Cash Flow
-- Financial Records
+- Cash Position
+- Inventory Turnover
+- Customer Acquisition Cost
+- Customer Lifetime Value
+- Repeat Purchase
+- Return on Investment
 
-Costing establishes the economic foundation.
+Metrics should be selected according to the stage and needs of SAB’A.
 
-Pricing determines the commercial price.
+## Financial Discipline
 
-Financial reporting evaluates the resulting performance.
+SAB’A should avoid financial practices that create artificial appearances of growth or profitability.
 
-## Professional Financial Advice
+This includes:
 
-Accounting, taxation, transfer pricing, financial reporting, and other specialized matters should be reviewed with appropriately qualified professionals where required.
+- Uncontrolled Discounting
+- Unnecessary Spending
+- Hiding Costs
+- Delaying Recognition of Material Obligations
+- Overcommitting Inventory
+- Spending for Vanity Metrics
+- Treating Revenue Alone as Success
 
-This document establishes an internal pricing framework and does not replace professional financial or legal advice.
+Financial health should be evaluated through the complete picture.
+
+## Relationship with Strategy
+
+Financial planning should support the strategic direction of SAB’A.
+
+A financially attractive decision may still be inappropriate if it materially conflicts with:
+
+- Brand Positioning
+- Product Standards
+- Customer Experience
+- Long-Term Strategy
+
+Likewise, strategic ambition should be supported by a financially realistic plan.
+
+## Review
+
+The Financial Framework should be reviewed when there are material changes to:
+
+- Business Model
+- Product Portfolio
+- Pricing
+- Sales Channels
+- Geographic Markets
+- Cost Structure
+- Investment Requirements
+- Ownership or Capital Structure
+
+## Professional Advice
+
+Accounting, taxation, audit, investment, financing, and other specialized financial matters should be reviewed with appropriately qualified professionals where required.
+
+This framework provides an internal management structure and does not replace professional financial or accounting advice.
 
 ## Core Principle
 
-> SAB’A should price its products with enough confidence to reflect their value, and enough discipline to protect the business that creates that value.
+> SAB’A should use finance to understand what is possible, protect what has been built, and choose where the next meaningful investment should be made.
 
 ---
 
 **SAB’A Codex**  
-**Document:** Pricing Model  
+**Document:** Financial Framework  
 **Version:** 1.0  
 **Status:** Approved  
 **Owner:** SAB’A  
