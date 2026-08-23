@@ -754,9 +754,9 @@ The roadmap exists to ensure that progress remains connected to purpose.
 
 ---
 
-SAB’A Codex
-Document: Project Roadmap.md
-Version: 1.0
-Status: Approved
-Owner: SAB’A
+SAB’A Codex  
+Document: Project Roadmap.md  
+Version: 1.0  
+Status: Approved  
+Owner: SAB’A  
 Last Updated: 2026-08-23
