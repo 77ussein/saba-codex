@@ -1084,9 +1084,9 @@ The purpose is to know, with discipline and evidence, how far SAB’A has actual
 
 ---
 
-SAB’A Codex
-Document: Milestones.md
-Version: 1.0
-Status: Approved
-Owner: SAB’A
+SAB’A Codex  
+Document: Milestones.md  
+Version: 1.0  
+Status: Approved  
+Owner: SAB’A  
 Last Updated: 2026-08-23
