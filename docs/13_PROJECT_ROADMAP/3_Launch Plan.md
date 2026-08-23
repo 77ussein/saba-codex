@@ -300,9 +300,10 @@ A successful launch is not simply the moment a product becomes available for pur
 
 ---
 
-SAB’A Codex
-Document: Launch Plan.md
-Version: 1.0
-Status: Approved
-Owner: SAB’A
+SAB’A Codex  
+Document: Launch Plan.md  
+Version: 1.0  
+Status: Approved  
+Owner: SAB’A  
 Last Updated: 2026-08-23
+:::
